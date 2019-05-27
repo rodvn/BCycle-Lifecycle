@@ -1,4 +1,5 @@
-What is BCycle? (https://austinbcycle.com/)
+What is BCycle? https://austinbcycle.com/
+tldr: it's a bike rental service in Austin, TX.
 
 In this data mining project I am trying to predict the lifespan (in months) of a BCycle bike using a dataset of trips spanning several years. I will be using supervised learning with the label being the actual lifespan of a bike calculated from this dataset.
 
